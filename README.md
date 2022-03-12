@@ -3,7 +3,7 @@ I have done Bachelors's in Computer Application(BCA) and Master degree MCA from 
 
 - 🔭 I’m currently working at Teamarcs technologies Pvt.Ltd.
 - 🌱 I’m currently learning Python Django 
-- 💬 Ask me about  c,c++,Python,Django,Javascript,
+- 💬 Ask me about  C,C++,Python,Django,Javascript,
 - 📫 How to reach me: prem86846@gmail.com
 
 
